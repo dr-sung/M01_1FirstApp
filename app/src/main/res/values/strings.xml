@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M01_1FirstApp</string>
+    <string name="name_prompt">Username: </string>
+    <string name="password_prompt">Password: </string>
+    <string name="name_hint">Name</string>
+    <string name="password_hint">password</string>
+    <string name="login_button">Login</string>
+</resources>
