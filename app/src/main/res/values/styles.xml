@@ -4,18 +4,10 @@
     <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="android:textViewStyle">@style/big_text</item>
-        <!--
-        <item name="android:editTextStyle">@style/hint_text</item>
-        -->
     </style>
+
     <style name="big_text" parent="android:Widget.TextView">
         <item name="android:textSize">24sp</item>
     </style>
-    <!--
-    <style name="hint_text" parent="android:Widget.TextView">
-        <item name="android:textSize">18sp</item>
-        <item name="android:textColorHint">@color/colorHint</item>
-    </style>
-    -->
 
 </resources>
